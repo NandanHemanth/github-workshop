@@ -10,7 +10,7 @@ git clone https://github.com/NandanHemanth/Github_Workshop
 ```
 2. Change to current working directory
 ```
-cd Github_workshop
+cd github_workshop
 ```
 
 3. Install all the necessary dependencies
