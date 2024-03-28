@@ -4,13 +4,14 @@
 > This is a workshop to learn how to use GitHub effectively and collaborate with others on open source projects.
 
 > To run this project locally, follow the instructions:
+
 1. Open a terminal, Clone this repo in your local system
 ```
-git clone https://github.com/NandanHemanth/Github_Workshop
+git clone https://github.com/NandanHemanth/github-workshop
 ```
 2. Change to current working directory
 ```
-cd github_workshop
+cd github-workshop
 ```
 
 3. Install all the necessary dependencies
